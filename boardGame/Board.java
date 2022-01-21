@@ -22,5 +22,8 @@ public class Board {
     public void setRows(int rows) {
         this.rows = rows;
     }
+    public Piece piece(int row, int colum){
+        return pieces[row][colum];
+    }
 
 }
