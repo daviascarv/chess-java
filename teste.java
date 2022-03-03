@@ -1,4 +1,4 @@
-package Chess-Java;
+package Jogo_de_Xadrez;
 
 public class teste {
     public static void main(String[] args) {
