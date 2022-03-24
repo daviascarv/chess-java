@@ -1,4 +1,5 @@
 package Jogo_de_Xadrez.Chess;
+import Jogo_de_Xadrez.boardGame.Board;
 import Jogo_de_Xadrez.boardGame.Piece;
 
 public class ChessPiece extends Piece{
